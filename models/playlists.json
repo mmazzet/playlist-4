@@ -1,0 +1,25 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "Homer Simpson favourite songs",
+      "userid": "94e37e55-b7d8-4a9a-b9ec-5c2a7b553990",
+      "_id": "6d35b593-66e5-42b9-bfc0-aeffeaec43d9"
+    },
+    {
+      "title": "Homer Simpson best songs ever",
+      "userid": "94e37e55-b7d8-4a9a-b9ec-5c2a7b553990",
+      "_id": "ffe53bf6-5764-4822-939f-4519e6e6f8f1"
+    },
+    {
+      "title": "Lisa Simpson best songs",
+      "userid": "df06a2c3-600f-4178-b2f2-e7bbd95bc271",
+      "_id": "18ceceb9-cb53-4d65-9056-18512b16ccb1"
+    },
+    {
+      "title": "Lisa Simpson faves",
+      "userid": "df06a2c3-600f-4178-b2f2-e7bbd95bc271",
+      "_id": "97eaa0c1-0b61-4cee-8c90-fc9f1e10ad31"
+    }
+  ]
+}

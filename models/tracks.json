@@ -1,0 +1,26 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "song 1",
+      "artist": "me",
+      "duration": 1,
+      "_id": "3401289a-f0cd-40b7-aa2b-ffcee05bfaca",
+      "playlistid": "6d35b593-66e5-42b9-bfc0-aeffeaec43d9"
+    },
+    {
+      "title": "song 2",
+      "artist": "me",
+      "duration": 3,
+      "_id": "5fb89be0-0f52-43a2-af4a-2d9bfd43e11b",
+      "playlistid": "6d35b593-66e5-42b9-bfc0-aeffeaec43d9"
+    },
+    {
+      "title": "song 3",
+      "artist": "me",
+      "duration": 6,
+      "_id": "5b8b1e1f-eed9-4ac4-af34-b29fccf5019a",
+      "playlistid": "97eaa0c1-0b61-4cee-8c90-fc9f1e10ad31"
+    }
+  ]
+}
